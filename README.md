@@ -2,8 +2,10 @@
 
 ## Antes de começar...
 
-- [Node.js](https://nodejs.org/en);
-- [Python](https://www.python.org/downloads/);
+Geralmente a primeira etapa no desenvolvimento de um projeto é entender e analisar as documentações e os primeiros passos. Dito isso, seguem alguns links relevantes que podem auxiliar no processo:
+
+- [Node.js](https://nodejs.org/en), documentação e instalação;
+- [Python](https://www.python.org/downloads/), documentação e instalação;
 - [Google API Key](https://developers.google.com/maps/documentation/javascript/get-api-key?hl=pt-br), geração de uma chave de API na google, para uso no desenvolvimento;
 - [Google Maps](https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl=pt-br), adicionar um mapa do Google com marcadores ao seu projeto;
 - [Hello World Express](https://expressjs.com/pt-br/starter/hello-world.html), projeto inicial básico em Express;
