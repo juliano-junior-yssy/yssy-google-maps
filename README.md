@@ -15,13 +15,14 @@ Geralmente a primeira etapa no desenvolvimento de um projeto é entender e anali
 ## :warning: Observações
 > - Mesmo que não finalize tudo, não deixe de enviar seu desafio. 
 
-## Requisitos
+## Requisitos do projeto
 
-1. Seu desafio precisa estar versionado no Github, em um repositório público;
-2. Seu projeto deve estar documentado, pois iremos executar o projeto e entender o que foi feito pela documentação;
-3. Desenvolver um _backend_ utilizando a liguagem e bibliotecas de sua preferência, com uma rota _HTTP GET_ que retorne os dados de um arquivo _json_ ["Banco de Dados"](places.json) - presente nesse repositório;
-4. Desenvolver um _frontend_ (página web) utilizando a liguagem e bibliotecas de sua preferência, que possua um componente ou elemento _HTML_ integrado com a API de mapas da Google;
-5. Realizar uma requisição _HTTP_ a partir do _frontend_ para o _backend_ e criar "marcadores" no mapa com base nos dados recebidos.
+1. Precisa estar versionado no Github, em um repositório público;
+2. Precisa estar documentado, pois iremos executar o projeto e entender o que foi feito pela documentação;
+3. Precisa estar organizado, limpo e bem estruturado. 
+4. Desenvolver um _backend_ utilizando a liguagem e bibliotecas de sua preferência, com uma rota _HTTP GET_ que retorne os dados de um arquivo _json_ ["Banco de Dados"](places.json) - presente nesse repositório;
+5. Desenvolver um _frontend_ (página web) utilizando a liguagem e bibliotecas de sua preferência, que possua um componente ou elemento _HTML_ integrado com a API de mapas da Google;
+6. Realizar uma requisição _HTTP_ a partir do _frontend_ para o _backend_ e criar "marcadores" no mapa com base nos dados recebidos.
 
 O resultado final deve ser algo parecido com a seguinte imagem: 
 
